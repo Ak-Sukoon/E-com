@@ -23,7 +23,7 @@
             border-right: 1px solid #ccc;
         }
         .headerAddress{
-            padding: 20px 30px;
+            padding: 50px 30px;
 
         }
        .headerAddress h3{
@@ -207,4 +207,5 @@
             gap: 15px;
 
         }
+
         
