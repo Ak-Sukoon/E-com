@@ -45,7 +45,7 @@
             padding: 30px 5px;
         }
         .productItems{
-            flex-basis: 20%;
+            flex-basis: 20 %;
         }
         .footer{
             padding-top: 0px;
@@ -56,5 +56,6 @@
         }
     }
               
+
 
 
